@@ -1,1 +1,4 @@
-# Desalination_Plants
+### Desalination Plants Performance Analysis Dashboard
+This dashboard provides a comprehensive performance analysis of 71 desalination plants across three Gulf countries: Saudi Arabia, the United Arab Emirates (UAE), and Qatar. The dataset used for this analysis was generated for analytical and demonstration purposes to showcase advanced data visualization and business intelligence capabilities.
+The dashboard presents key metrics related to plant capacity, storage, workforce distribution, transportation costs, revenues, and expenses, providing a holistic view of desalination operations across the region. In addition, the dashboard incorporates advanced performance and sustainability analytics, including Profit Margin, Energy Efficiency Index, and Carbon Emission Estimates.
+Through dynamic visualizations and comparative analysis, the dashboard supports data-driven decision-making by identifying performance trends, benchmarking facilities across countries, and highlighting opportunities for operational optimization, cost efficiency, and sustainability improvements within the desalination sector.
